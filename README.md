@@ -15,7 +15,7 @@
 
 #### 📊 Stats
 <p>
-  <a href="https://www.acmicpc.net/user/yonghun16"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim-sunah" width="348em"></a>
+  <a href="https://www.acmicpc.net/user/kim_sunah"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_sunah" width="348em"></a>
   <img src="http://mazandi.herokuapp.com/api?handle=kim-sunah&theme=warm" width="348em">
 </p>
 <p>
