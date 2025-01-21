@@ -16,7 +16,7 @@
 #### 📊 Stats
 <p>
   <a href="https://www.acmicpc.net/user/kim_sunah"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_sunah" width="348em"></a>
-  <img src="http://mazandi.herokuapp.com/api?handle=kim-sunah&theme=warm" width="348em">
+  <img src="http://mazandi.herokuapp.com/api?handle=kim_sunah&theme=warm" width="348em"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sunah&layout=compact&theme=transparent">
