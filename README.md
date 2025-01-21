@@ -1,9 +1,7 @@
-# yonghun16
+# pysunah
 
 ### 💬 About me
-- 😄 I'm a <b>Frontend developer</b>.
-- 🔭 I’m currently working on Web deevelopment in the <b>health sector</b>.
-- 🌱 Currently focused on Web.
+- 😄 I'm a <b>developer</b>.
 - ❤️ I love to code and read.
 
 #### 🛠️ Languages and Tools
@@ -17,12 +15,12 @@
 
 #### 📊 Stats
 <p>
-  <a href="https://www.acmicpc.net/user/yonghun16"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghun16" width="348em"></a>
-  <img src="http://mazandi.herokuapp.com/api?handle=yonghun16&theme=warm" width="348em">
+  <a href="https://www.acmicpc.net/user/yonghun16"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim-sunah" width="348em"></a>
+  <img src="http://mazandi.herokuapp.com/api?handle=kim-sunah&theme=warm" width="348em">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonghun16&layout=compact&theme=transparent">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonghun16&show_icons=true&theme=transparent" width="396em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sunah&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=kim-sunah16&show_icons=true&theme=transparent" width="396em">
 </p>
 
 
